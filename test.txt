@@ -1,0 +1,2 @@
+# PhishShift Project
+All project files are properly organized in this directory.

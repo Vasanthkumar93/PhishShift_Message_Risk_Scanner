@@ -1,0 +1,50 @@
+{
+  "corpus_name": "PhishShift Educational Security Corpus (PESC-2026)",
+  "version": "1.0.0",
+  "total_records": 420,
+  "license": "CC-BY-4.0 / Educational Triage Simulation",
+  "safe_handling_statement": "All URLs in this dataset are strictly defanged (e.g., hxxp, [.]com) and attachment payloads are excluded in compliance with NFR-01 and NFR-02.",
+  "channel_breakdown": {
+    "email": 310,
+    "sms": 110
+  },
+  "label_distribution": {
+    "phishing": 210,
+    "legitimate": 210
+  },
+  "campaign_groups": [
+    "camp_01_it_urgent_cred",
+    "camp_02_payroll_direct_deposit",
+    "camp_03_courier_delivery_sms",
+    "camp_04_mfa_push_fatigue",
+    "camp_05_unseen_vendor_wire",
+    "camp_06_unseen_executive_giftcard",
+    "camp_07_unseen_collab_sharepoint",
+    "camp_benign_routine_hr",
+    "camp_benign_it_password_reset",
+    "camp_benign_finance_payroll",
+    "camp_benign_system_alerts",
+    "camp_benign_sms_notifications",
+    "camp_mentor_unseen_eval"
+  ],
+  "provenance_sources": [
+    {
+      "source_id": "SRC-01",
+      "name": "Enron / SpamAssassin Clean Open Corpus (Defanged Benign Subset)",
+      "license": "Public Domain / Apache 2.0",
+      "records_used": 140
+    },
+    {
+      "source_id": "SRC-02",
+      "name": "Nazario Phishing Corpus (Sanitized & Modernized Defanged Simulations)",
+      "license": "Creative Commons Attribution 4.0",
+      "records_used": 150
+    },
+    {
+      "source_id": "SRC-03",
+      "name": "PhishShift Security Team Synthetic Sim Suite (Unseen & Urgent Benign)",
+      "license": "MIT / Academic Research Use",
+      "records_used": 130
+    }
+  ]
+}

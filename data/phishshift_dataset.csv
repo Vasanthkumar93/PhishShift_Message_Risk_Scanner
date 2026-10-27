@@ -1,0 +1,136 @@
+text,label,type,source
+"URGENT: Your Bank of America online banking access has been suspended due to suspicious activity. Verify your identity immediately at http://bit.ly/boa-verify-login or your account will be permanently closed.",1,email,synthetic_phishing_corpus
+"Dear customer, unauthorized transaction of $940.00 detected on your Wells Fargo Visa card. If this was not you, confirm your credentials now: http://tinyurl.com/wf-fraud-security",1,email,synthetic_phishing_corpus
+"SECURITY ALERT: Someone attempted to login to your PayPal account from Russia. If this wasn't you, click here http://192.168.1.104/paypal/login.php to secure your account and update your password.",1,email,synthetic_phishing_corpus
+"Final Notice: IRS tax refund of $1,420.50 pending for your SSN. Submit your direct deposit details and social security number at http://irs-gov-refund-portal.tk to claim before 5 PM today.",1,email,synthetic_phishing_corpus
+"Action Required: Your Microsoft 365 password expires in 2 hours. Keep your current password by validating your account credentials at https://msoffice-verify.com/login",1,email,email_phishing_benchmark
+"Netflix: Your payment failed. Your subscription will be cancelled unless you update your credit card details immediately: http://netflix-billing-update.ru",1,email,synthetic_phishing_corpus
+"Amazon Security: We detected an unusual order #849204 ($1,299 iPhone 15 Pro) on your account. If you did not place this, cancel immediately at http://bit.ly/amz-cancel-order",1,email,synthetic_phishing_corpus
+"Dear Employee, Human Resources has updated the mandatory benefits package. Please download and execute the attached payroll portal updater: http://is.gd/hr-payroll-update to review your 2026 salary increase.",1,email,spear_phishing_benchmark
+"Hi Alex, please review the attached quarterly performance sheet for your team when you get a chance: http://tinyurl.com/q3-review-doc. Thanks, HR Operations.",1,email,spear_phishing_benchmark
+"Your Apple ID has been locked for security reasons. To unlock your account, you must confirm your billing name, address and card number at http://appleid-unlock-support.cc",1,email,synthetic_phishing_corpus
+"DHL Express: Your package delivery has been put on hold due to unpaid customs fee ($2.95). Pay online now to avoid return to sender: http://bit.ly/dhl-package-fees",1,sms,sms_spam_corpus
+"USPS: A parcel for you cannot be delivered due to incomplete street address. Please update your address and pay redelivery fee within 12 hours: http://usps-redelivery-post.top",1,sms,sms_spam_corpus
+"FedEx: We attempted delivery today at 11:30 AM. No one was available. Reschedule your parcel delivery here: http://bit.ly/fedex-track-deliver",1,sms,sms_spam_corpus
+"Citibank Alert: Large transfer of $4,500.00 initiated from your checking account. If unauthorized, call our fraud desk or log in to stop it: http://citi-secure-check.net",1,sms,sms_spam_corpus
+"Chase Bank: Suspicious sign-in detected on your account. Please confirm your identity immediately at http://tinyurl.com/chase-auth-sms",1,sms,sms_spam_corpus
+"Congrats! You have won a $1,000 Walmart gift card in our monthly shopper draw. Claim your prize by entering your shipping details and SSN: http://walmart-winner-claim.info",1,sms,sms_spam_corpus
+"CashApp: You received $750.00 from user_9381. Tap http://cashapp-claim-transfer.org to accept funds into your bank account before they expire.",1,sms,sms_spam_corpus
+"Alert: Your Coinbase wallet has been restricted due to KYC compliance. Verify your recovery seed phrase at http://coinbase-kyc-verify.io to resume crypto withdrawals.",1,email,crypto_phishing_corpus
+"Meta Security Team: Your Facebook page violates community copyright policies and will be deleted within 24 hours. Submit an appeal here: http://fb-appeal-center.biz",1,email,synthetic_phishing_corpus
+"Google Workspace: Your email storage quota is 99% full. To prevent loss of incoming emails, upgrade your mailbox storage for free: http://google-drive-upgrade.xyz",1,email,synthetic_phishing_corpus
+"Immediate Attention: Unpaid invoice #INV-92849 is past due. Wire $3,450 to our updated vendor bank account details attached in link: http://bit.ly/vendor-invoice-pay",1,email,spear_phishing_benchmark
+"Hi Mark, I'm stuck in an emergency meeting with a client and need you to urgently buy 5 Apple gift cards ($100 each) for the client presentation. Send the card codes to my personal email right away. Thanks, CEO.",1,email,bec_phishing_corpus
+"Internal IT: We are migrating the company VPN tonight. Click here to confirm your Windows username and domain password to maintain remote access: http://tinyurl.com/corp-vpn-login",1,email,spear_phishing_benchmark
+"DocuSign: CFO has sent you an urgent document 'Confidential Separation Agreement' for immediate signature. View document: http://docusign-sign-docs.online",1,email,spear_phishing_benchmark
+"Geek Squad: Your automatic renewal for Best Buy Total Tech Support ($399.99) has succeeded. If you wish to cancel and request a refund, call 1-800-555-0199 immediately.",1,email,invoice_scam_corpus
+"Norton Antivirus: Your subscription has been renewed for $499.00 debited from your checking account. Call our toll-free customer support to dispute this charge.",1,email,invoice_scam_corpus
+"WhatsApp notification: You have 1 unread audio message. Click to listen: http://whatsapp-voice-download.pw",1,sms,sms_spam_corpus
+"AT&T Alert: Your phone line will be disconnected due to non-payment. Settle your balance of $88.40 immediately at http://att-bill-pay-online.cc",1,sms,sms_spam_corpus
+"Bank of Scotland: A new payee was successfully added to your mobile banking. If this was not requested by you, cancel immediately: http://bit.ly/bos-cancel-payee",1,sms,sms_spam_corpus
+"LinkedIn: You appeared in 47 searches this week. A recruiter from Google viewed your profile. Log in to connect: http://linkedin-careers-search.club",1,email,synthetic_phishing_corpus
+"URGENT: Your package from Amazon is pending clearance. Pay customs duty of 3.50 GBP at http://royalmail-fees.site within 24 hours.",1,sms,sms_spam_corpus
+"Payroll Dept: Due to a tax recalculation, your recent salary payment of $3,200 has been put on hold. Enter your banking credentials at http://bit.ly/payroll-resolve-tax to release funds.",1,email,spear_phishing_benchmark
+"Hello, this is IT Support. We noticed multiple failed login attempts on your workstation. Send us your temporary password to verify your account.",1,email,spear_phishing_benchmark
+"Account Notice: Your Twitter / X account has been reported for trademark violation. Verify ownership at http://x-verify-badge.top to prevent suspension.",1,email,synthetic_phishing_corpus
+"Zoom meeting invitation from Executive Team. Please authenticate with your corporate email password to join the encrypted conference: http://zoom-corp-meeting.link",1,email,synthetic_phishing_corpus
+"Dear Employee, The annual performance bonus review has completed. Download your individual compensation statement from http://tinyurl.com/bonus-statement-2026",1,email,spear_phishing_benchmark
+"Wells Fargo: Your debit card ending in 4920 has been temporarily locked. Restore access by entering your card PIN and security questions at http://wf-pin-restore.info",1,sms,synthetic_phishing_corpus
+"Security Notice: Your iCloud account is scheduled for deletion due to suspicious activities. Verify your Apple ID at http://icloud-storage-confirm.net",1,email,synthetic_phishing_corpus
+"Important notice: Your vehicle insurance policy is expiring today. Renew now with 50% discount by submitting card details: http://auto-insurance-deal.top",1,sms,sms_spam_corpus
+"Dear customer, you have received a court subpoena regarding case #73921. Click http://e-court-notice.org to review the summons document.",1,email,synthetic_phishing_corpus
+"Reminder from IT Helpdesk: The company-wide password expiration policy is scheduled for next Monday. Please change your password directly in Windows settings (Ctrl+Alt+Del). We will never ask you for your password via email or link.",0,email,legitimate_corporate
+"Hello team, your monthly payroll slip for October has been processed and is now available on the internal Workday employee portal. Have a great weekend!",0,email,legitimate_corporate
+"Dear Staff, HR will conduct the annual open enrollment for medical, dental, and life insurance benefits starting November 1st. Please review the handbook on SharePoint.",0,email,legitimate_corporate
+"Hi Alex, just checking in to see if you are free for our 2:00 PM sync today in Conference Room B or over Google Meet?",0,email,legitimate_corporate
+"Your weekly project status report has been updated in Jira. Sprint 42 velocity increased by 15% with zero blocking defects.",0,email,legitimate_corporate
+"Security Reminder from CISO: Remember that legitimate IT staff will NEVER ask you to disclose your passwords, two-factor authentication codes, or personal security questions.",0,email,legitimate_corporate
+"Hi team, please find the minutes of today's architecture review meeting attached below. Action items are assigned for Friday.",0,email,legitimate_corporate
+"The quarterly all-hands meeting will take place this Thursday at 10 AM in the main auditorium. Snacks and refreshments will be provided.",0,email,legitimate_corporate
+"Hi Sarah, can you please review the pull request #402 on GitHub when you have a few minutes? Tests are passing.",0,email,legitimate_corporate
+"Your scheduled backup for workstation WS-1049 completed successfully at 03:00 AM. 42 GB backed up to corporate cloud archive.",0,email,legitimate_corporate
+"Chase Bank Alert: Your monthly e-Statement is ready to view. To review your statement, please log into your account through our official mobile app or visit chase.com.",0,email,legitimate_banking
+"Amazon: Your package containing 'Wireless Bluetooth Keyboard' has been delivered to your front door at 2:15 PM.",0,email,legitimate_notifications
+"Google Security: A new sign-in was detected on your personal Pixel device. If this was you, no action is needed. Check activity in your Google Account dashboard.",0,email,legitimate_notifications
+"Internal Memo: The office Wi-Fi network will undergo scheduled maintenance tonight between 11:00 PM and midnight. Ethernet connections will remain operational.",0,email,legitimate_corporate
+"Hi David, attached is the revised Q4 budget spreadsheet for the marketing department. Let me know if you need any adjustments before the board meeting.",0,email,legitimate_corporate
+"Hey bro, are we still meeting for lunch at 1pm near the library?",0,sms,legitimate_personal
+"Mom called to say dinner is ready at 7:30. Let me know when you're heading home.",0,sms,legitimate_personal
+"Your verification code is 849201. This code expires in 10 minutes. For your security, do not share this code with anyone.",0,sms,legitimate_banking
+"Uber: Your driver John in a Silver Toyota Camry is arriving in 3 minutes. Destination: Downtown Station.",0,sms,legitimate_notifications
+"Appointment reminder: Your dental cleaning with Dr. Williams is scheduled for tomorrow at 10:30 AM. Reply 1 to confirm or call 555-0143 to reschedule.",0,sms,legitimate_notifications
+"Hey, did you finish reading the machine learning notes for tomorrow's exam?",0,sms,legitimate_personal
+"Hi, I left my blue umbrella in your car yesterday. Can you bring it to work tomorrow?",0,sms,legitimate_personal
+"Your Starbucks order #182 is ready for pickup at the counter. Enjoy your drink!",0,sms,legitimate_notifications
+"Domino's Pizza: Your order has left the store and is out for delivery with driver Carlos.",0,sms,legitimate_notifications
+"Can you please pick up milk, bread, and eggs on your way home from the grocery store?",0,sms,legitimate_personal
+"The conference call has been rescheduled to 4 PM. See you on the Zoom link on the calendar invite.",0,email,legitimate_corporate
+"Hi team, just a heads up that payroll processing for this month will be completed one day earlier due to the upcoming national holiday.",0,email,legitimate_corporate
+"Your two-factor authentication secret key has been updated. If you did not make this change, please sign in to your profile and review security events.",0,email,legitimate_corporate
+"Customer Service: Thank you for contacting Apple Support. Your case number is 100948201. An advisor will contact you within 24 hours.",0,email,legitimate_support
+"GitHub: You were mentioned in an issue by @dev_lead: 'Please verify the unit test coverage for authentication module before merging.'",0,email,legitimate_notifications
+"Hey, let me know what time you're leaving for the cinema tonight so I can book tickets.",0,sms,legitimate_personal
+"Your flight UA-429 to Chicago is on time. Gate departure is scheduled from Terminal 2 Gate B14 at 4:45 PM.",0,sms,legitimate_notifications
+"Hi team, please submit your weekly timesheets into the corporate portal by 5:00 PM today for approval.",0,email,legitimate_corporate
+"Hi, the shared document 'Q4 Marketing Strategy 2026' was shared with you on Google Drive by Emily. Access it from your Drive dashboard.",0,email,legitimate_corporate
+"Reminder: Library books 'Introduction to Deep Learning' and 'Clean Code' are due for return in 3 days.",0,sms,legitimate_notifications
+"URGENT ALERT: Your computer has been infected with 3 viruses. Call Microsoft certified support at 1-888-293-1002 immediately to prevent total data deletion.",1,email,tech_support_scam
+"Your PayPal account has been limited due to unusual credit card activity. Verify your identity at http://tinyurl.com/paypal-limit-fix or funds will be seized.",1,email,synthetic_phishing_corpus
+"WARNING: Your Dropbox account storage is over limit and 47 files will be erased in 12 hours. Login to upgrade: http://dropbox-cloud-storage.click",1,email,synthetic_phishing_corpus
+"Dear customer, someone requested a password reset for your online banking. If this was not you, lock your account right now: http://bit.ly/lock-my-banking-now",1,email,synthetic_phishing_corpus
+"FedEx Express: We were unable to deliver parcel #FX93021. Review the shipment invoice and update delivery location: http://fedex-express-track.online",1,sms,sms_spam_corpus
+"Security Alert from Google: Someone knows your password and attempted to sign into your account from an unknown IP address. Click http://google-security-recovery.site to change your credentials now.",1,email,synthetic_phishing_corpus
+"Dear Sir/Madam, we represent the Royal Bank of Scotland. An unclaimed estate of 8,500,000 GBP has been bequeathed to you. Send your full name, passport copy, and bank details to claim.",1,email,nigerian_prince_scam
+"Hello! I am an executive at Binance. We have chosen you for an exclusive 100% Bitcoin deposit matching bonus. Send 0.1 BTC to receive 0.2 BTC: http://binance-promo-bonus.cc",1,email,crypto_phishing_corpus
+"Your Apple receipt for order #982131 ($299.99 Tinder Platinum Annual Subscription). If you did not authorize this purchase, cancel at http://apple-cancel-sub.me",1,email,synthetic_phishing_corpus
+"Internal IT Security: A mandatory security patch requires your immediate action. Enter your corporate network password at http://corp-internal-it.info/patch to install.",1,email,spear_phishing_benchmark
+"Good morning, please find attached the quarterly financial summary spreadsheet. Let's discuss it in the 11 AM department meeting.",0,email,legitimate_corporate
+"Hi Sarah, could you please forward me the slide deck from yesterday's product roadmap presentation? Thanks!",0,email,legitimate_corporate
+"The IT department will be upgrading the server operating systems this Saturday from 2 AM to 6 AM. No system access during this window.",0,email,legitimate_corporate
+"Your prescription refill at CVS Pharmacy is ready for pickup. Pharmacy hours today are 9 AM to 8 PM.",0,sms,legitimate_notifications
+"Hey, are you free for a quick phone call regarding the client proposal?",0,sms,legitimate_personal
+"Your monthly statement for electricity account #482910 is ready. Balance of $74.20 is due on Nov 15th through your utility account online.",0,email,legitimate_notifications
+"HR Announcement: The office will be closed on Monday for Memorial Day. Have a wonderful long weekend with your family!",0,email,legitimate_corporate
+"Thank you for ordering with DoorDash. Your dasher Michael has picked up your food from Chipotle and is on the way.",0,sms,legitimate_notifications
+"Reminder: Your gym membership at Fitness First will automatically renew on the 1st of next month. Manage your plan via our official app.",0,email,legitimate_notifications
+"Hi, I reviewed the code changes for the authentication service. Everything looks solid, I have approved the PR.",0,email,legitimate_corporate
+"URGENT: Your Wells Fargo account is temporarily locked. Confirm your SSN and debit card details at http://wf-identity-update.online to restore access.",1,sms,synthetic_phishing_corpus
+"You have 1 pending package at the sorting facility. To confirm delivery date and address, visit http://is.gd/package-pending-notice",1,sms,sms_spam_corpus
+"Payroll Notification: Please confirm your bank account routing number so your direct deposit is not delayed: http://bit.ly/payroll-direct-deposit",1,email,spear_phishing_benchmark
+"Microsoft Alert: Suspicious activity detected in your tenant. Validate your global administrator credentials at http://admin-portal-msoffice.net",1,email,spear_phishing_benchmark
+"Hi, your car warranty is expiring soon. Click http://vehicle-warranty-center.com to extend full coverage today.",1,sms,sms_spam_corpus
+"Team, please remember to turn in your laptop to the IT bar for the scheduled hardware refresh next Tuesday.",0,email,legitimate_corporate
+"Your train ticket booking is confirmed. PNR: 4920491. Coach B3, Seat 24. Safe travels!",0,sms,legitimate_notifications
+"Hi dad, I reached the hotel safely. The weather here is great. Will call you tonight.",0,sms,legitimate_personal
+"Dear candidate, thank you for interviewing with us for the Software Engineer role. Our team was impressed and we would like to invite you for the final round.",0,email,legitimate_corporate
+"Your monthly broadband internet bill of $59.99 was successfully auto-paid via credit card ending in 8192.",0,email,legitimate_notifications
+"Your Amazon order for PlayStation 5 ($499.00) is being processed. If you did not place this order, cancel at http://amz-support-cancellation.site",1,sms,sms_spam_corpus
+"Alert: Unrecognized charge of $899 at Apple Store on your Discover card. Call 1-800-432-1117 or click http://discover-fraud-verify.com",1,sms,synthetic_phishing_corpus
+"Your tax filing has discrepancies. Update your W-2 information at http://irs-tax-refund-status.info within 48 hours to avoid penalty.",1,email,synthetic_phishing_corpus
+"Security Notice: Your Google Workspace session will expire. Sign in again to keep your active work: http://google-sso-auth.xyz",1,email,spear_phishing_benchmark
+"Hey, please find the updated invoice for last month's consulting work attached. Pay via the new wire link: http://bit.ly/consulting-wire",1,email,spear_phishing_benchmark
+"Your Instagram account has been reported for impersonation. Submit your selfie and photo ID at http://instagram-verify-center.top",1,email,synthetic_phishing_corpus
+"Steam Guard: A user from Beijing logged into your Steam account. Reset your Steam password immediately: http://steam-security-lock.pw",1,email,synthetic_phishing_corpus
+"Internal Alert: HR department needs you to verify your direct deposit banking details for next pay cycle at http://tinyurl.com/hr-direct-pay",1,email,spear_phishing_benchmark
+"ATTENTION: Your vehicle toll bill is past due by 7 days. Pay toll fee ($4.25) to avoid suspension of driver license: http://toll-fee-pay.site",1,sms,sms_spam_corpus
+"Your WhatsApp backup will be erased in 24 hours due to storage limit. Upgrade backup space now: http://whatsapp-cloud-space.top",1,sms,sms_spam_corpus
+"Bank of America: We have placed a hold on your check deposit. Authenticate your online banking profile to clear hold: http://boa-clearance-auth.cc",1,sms,synthetic_phishing_corpus
+"Important notification regarding your health insurance premium. Action required before end of month: http://health-premium-check.info",1,email,synthetic_phishing_corpus
+"You have been awarded a scholarship of $5,000 from the Education Foundation. Provide bank account details to claim award: http://scholarship-claim-fund.org",1,email,synthetic_phishing_corpus
+"Crypto Alert: Unauthorized withdrawal of 2.4 ETH initiated from your MetaMask. Click to cancel withdrawal: http://metamask-security-shield.io",1,email,crypto_phishing_corpus
+"Congratulations! You won the grand prize of 50,000 GBP in the UK National Lottery. Contact agent to transfer funds.",1,email,nigerian_prince_scam
+"Reminder from Payroll: Please review your W-2 tax forms for 2025 on the company HR portal at workday.corp.com before January 31.",0,email,legitimate_corporate
+"IT Security Reminder: Please do not click on unverified links or provide your network passwords to anyone.",0,email,legitimate_corporate
+"Hi everyone, the weekly standup meeting is pushed to 10:30 AM today due to the leadership conflict. Same room.",0,email,legitimate_corporate
+"Your receipt from Whole Foods Market: Total $43.21 paid with Visa ending in 4102. Thank you for shopping with us.",0,email,legitimate_notifications
+"Hi dad, please send me the recipe for the chicken curry when you have time.",0,sms,legitimate_personal
+"Your table at Olive Garden for 4 guests is confirmed for tonight at 7:00 PM. Reply STOP to cancel.",0,sms,legitimate_notifications
+"Hey man, I left my laptop charger in the meeting room. Can you keep it on my desk if you see it?",0,sms,legitimate_personal
+"The monthly company newsletter is out! Check out the employee spotlight and our Q3 achievements.",0,email,legitimate_corporate
+"Your order #49281 has shipped with FedEx tracking number 894210492194. Estimated delivery Wednesday by end of day.",0,email,legitimate_notifications
+"Your temporary verification passcode for login is 392019. This code will expire in 5 minutes.",0,sms,legitimate_banking
+"HR Notice: Annual flu shots will be administered in the 3rd floor clinic this Wednesday from 9am to 3pm. Walk-ins welcome.",0,email,legitimate_corporate
+"Meeting summary: We agreed to finalize the design mockups by Wednesday and start user testing on Friday.",0,email,legitimate_corporate
+"Hi, please find the receipts for travel reimbursement attached for your manager sign-off.",0,email,legitimate_corporate
+"Your phone battery is at 15%. Connect to charger soon to avoid shutdown.",0,sms,legitimate_notifications
+"Hi team, remember to submit your quarterly goal progress in the employee performance system by Friday afternoon.",0,email,legitimate_corporate

@@ -1,0 +1,74 @@
+[
+  {
+    "perturbation_id": "PERT-01",
+    "base_type": "legitimate_urgent_password",
+    "original_text": "URGENT: Your Active Directory network password will expire in 24 hours. Update via domain settings or internal portal hxxps://sso.internal.corp[.]local.",
+    "perturbed_text": "URGENT!! Your Active Directory net-work password will expire in 24 hrs. Please update via domain settings or portal: hxxps://sso.internal.corp[.]local",
+    "perturbation_type": "Punctuation inflation and hyphenation ('net-work', '!!')",
+    "expected_label": "legitimate",
+    "rationale": "Urgency cues exist, but sender is internal and destination is verified corporate intranet."
+  },
+  {
+    "perturbation_id": "PERT-02",
+    "base_type": "legitimate_payroll",
+    "original_text": "Reminder: Direct deposit disbursements will be initiated on Friday as scheduled through our payroll partner ADP.",
+    "perturbed_text": "REMINDER: Direct deposit disbursements will be settled this Friday. Access standard ADP self-service if bank routing changed.",
+    "perturbation_type": "Capitalization shift and rephrased banking terminology",
+    "expected_label": "legitimate",
+    "rationale": "Contains keywords 'direct deposit' and 'bank routing' without suspicious external hyperlinks."
+  },
+  {
+    "perturbation_id": "PERT-03",
+    "base_type": "phishing_unfamiliar_wording",
+    "original_text": "Notice of Banking Institution Relocation: route pending wire transactions to the new escrow ledger detailed at hxxps://remit-portal-doc[.]cloud/invoice.",
+    "perturbed_text": "Vendor treasury relocation notification: Wire transfers for outstanding invoices should be remitted to updated depository ledger at hxxps://remit-portal-doc[.]cloud/invoice.",
+    "perturbation_type": "Formalized vendor terminology ('depository ledger', 'remitted')",
+    "expected_label": "phishing",
+    "rationale": "High-risk financial instruction redirecting funds to an unverified external cloud domain."
+  },
+  {
+    "perturbation_id": "PERT-04",
+    "base_type": "phishing_shortener_sms",
+    "original_text": "USPS Alert: Package tracking #US940294 requires redelivery fee of $1.50. Update address at hxxps://bit[.]ly/usps-pkg-892 within 12h.",
+    "perturbed_text": "Postal Delivery Status: Delivery #940294 pending address confirmation and minimal dispatch fee. Confirm here: hxxps://t[.]co/usps-pkg-892",
+    "perturbed_type": "Alternative shortener domain (t[.]co) and softened payment language",
+    "expected_label": "phishing",
+    "rationale": "Unsolicited SMS with shortened redirection link requesting postal fees."
+  },
+  {
+    "perturbation_id": "PERT-05",
+    "base_type": "legitimate_it_mfa",
+    "original_text": "IT Helpdesk: Your VPN two-factor temporary access token is 502914. Valid for 5 minutes.",
+    "perturbed_text": "IT Support notification: 2FA one-time pass-code for secure gateway session is: [ 502914 ]. Expires in 300 sec.",
+    "perturbation_type": "Numeric formatting bracketed and seconds notation",
+    "expected_label": "legitimate",
+    "rationale": "Standard transactional OTP without external action links or credential requests."
+  },
+  {
+    "perturbation_id": "PERT-06",
+    "base_type": "phishing_executive_giftcard",
+    "original_text": "Quick favor - Are you at your desk right now? Need confidential supplier procurement assistance.",
+    "perturbed_text": "Are you reachable at your station today? Need a brief discreet procurement assistance regarding regional team incentives.",
+    "perturbation_type": "Synonym substitution ('station', 'discreet', 'regional team incentives')",
+    "expected_label": "phishing",
+    "rationale": "Conversational urgency from freemail domain impersonating leadership requesting procurement."
+  },
+  {
+    "perturbation_id": "PERT-07",
+    "base_type": "legitimate_system_alert",
+    "original_text": "AWS Notification: Your Multi-AZ RDS instance in region us-east-1 is scheduled for non-disruptive minor maintenance.",
+    "perturbed_text": "Amazon Web Services alert: Routine automated patch application scheduled for production database host us-east-1 on Sunday.",
+    "perturbation_type": "Technical wording variation ('patch application', 'production database host')",
+    "expected_label": "legitimate",
+    "rationale": "Standard cloud infrastructure status advisory from verified known external domain."
+  },
+  {
+    "perturbation_id": "PERT-08",
+    "base_type": "phishing_defanged_url_variation",
+    "original_text": "Storage Quota Exceeded: Review and clear cache at hxxps://portal-verify-it[.]biz/sso immediately.",
+    "perturbed_text": "Mailbox Quota Exceeded: Review and clear quarantine inbox via: hxxp://portal.verify--it[.]cc/sso",
+    "perturbation_type": "Hyphenated typosquatted domain variant ('verify--it[.]cc')",
+    "expected_label": "phishing",
+    "rationale": "Storage quota urgency combined with typosquatted lookalike domain."
+  }
+]
